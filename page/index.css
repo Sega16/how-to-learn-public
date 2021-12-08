@@ -37,6 +37,9 @@
 @import url(../blocks/logo/_place/);
 @import url(../blocks/logo/_place/logo_place_header.css);
 
+/* ================================ textarea =================================== */
+@import url(../blocks/textarea/textarea.css);
+
 /* =============================== HEADER ============================= */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -88,6 +91,14 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
+
+/* ================================ FORM ================================= */
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/__contacts/form__contacts.css);
+@import url(../blocks/form/__contacts-item/form__contacts-item.css);
+@import url(../blocks/form/__contacts-label/form__contacts-label.css);
+@import url(../blocks/form/__button/form__button.css);
 
 /* ============================= FOOTER ================================= */
 @import url(../blocks/footer/footer.css);

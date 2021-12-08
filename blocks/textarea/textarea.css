@@ -1,0 +1,13 @@
+.textarea {
+    background-color:#f2f2f2;
+    min-width: 500px;
+    min-height: 150px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+.textarea::placeholder {
+    padding: 5px 0 0 5px;
+    font-size: 24px;
+    color: rgb(99, 66, 66);
+}
